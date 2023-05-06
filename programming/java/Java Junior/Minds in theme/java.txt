@@ -1,0 +1,4 @@
+ Чтобы запустить файл с исходным кодом на выполнение, надо выполнить следующее:
+С:\Users\guru13\jdk-11.0.2\bin\java HelloWorld.java
+С:\Users\guru13\jdk-11.0.2\bin\java HelloWorld.java
+
